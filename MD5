@@ -1,0 +1,16 @@
+428f342a605787218794f5631e06f555 *DESCRIPTION
+31b75f9dca7a62f9ad02e412fdb3bc77 *LICENSE
+d80065d0e36955243f128b22c5093f9c *NAMESPACE
+20d83e901be0646b38266ae721c1c488 *NEWS.md
+3075f69ca88a24cf9428142377db2453 *R/main.R
+04c0b9b39884298cc7587db28058f5a4 *README.md
+a31acb376ca7582edb1c96380e0fcdc2 *build/vignette.rds
+ca68dce863e3b35dd91d3d7fcc24fe7a *inst/doc/regreplaceR.R
+ce4ddae12d268dae38e2e15ffb1495be *inst/doc/regreplaceR.Rmd
+0cbe1436eb4935f48b397ed104e0723b *inst/doc/regreplaceR.html
+3915bc3f1e41b5dd4ba54551356a0f2e *man/Replacer.Rd
+8219bec6c2c86fe2eb346fd86b0672c2 *man/groups.Rd
+ea6f608274b224d304d9dae39dfd5edc *man/match_group.Rd
+b0c593f49eb18703b2a665140bacb36d *man/replace_group.Rd
+e45954c78b8dd5d804ee084e35248a23 *tests/testthat/test-main.R
+ce4ddae12d268dae38e2e15ffb1495be *vignettes/regreplaceR.Rmd
